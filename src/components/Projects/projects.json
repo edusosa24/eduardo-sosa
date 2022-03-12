@@ -1,0 +1,71 @@
+{
+  "front_nojs": [
+    {
+      "project_name": "The next web clone",
+      "project_url": "https://edusosa24.github.io/building-with-responsive-design/",
+      "github_url": "https://github.com/edusosa24/building-with-responsive-design",
+      "image_url": "./images/building-with-responsive-design.png"
+    },
+    {
+      "project_name": "The odin project clone",
+      "project_url": "https://edusosa24.github.io/the-odin-project-clone/",
+      "github_url": "https://github.com/edusosa24/the-odin-project-clone",
+      "image_url": "./images/the-odin-project-clone.png"
+    }
+  ],
+  "front_js": [
+    {
+      "project_name": "simple library",
+      "project_url": "https://edusosa24.github.io/library/",
+      "github_url": "https://github.com/edusosa24/library",
+      "image_url": "./images/simple-library.png"
+    },
+    {
+      "project_name": "restaurant - pasta factory",
+      "project_url": "https://edusosa24.github.io/restaurant/",
+      "github_url": "https://github.com/edusosa24/restaurant",
+      "image_url": "./images/pasta-factory.png"
+    },
+    {
+      "project_name": "tic tac toe",
+      "project_url": "https://edusosa24.github.io/tic-tac-toe/",
+      "github_url": "https://github.com/edusosa24/tic-tac-toe",
+      "image_url": "./images/tic-tac-toe.png"
+    },
+    {
+      "project_name": "wheater app",
+      "project_url": "https://edusosa24.github.io/weather-app/",
+      "github_url": "https://github.com/edusosa24/weather-app",
+      "image_url": "./images/weather-app.png"
+    }
+  ],
+  "front_react":[
+    {
+      "project_name": "curriculum builder app",
+      "project_url": "https://edusosa24.github.io/cv-aplication/",
+      "github_url": "https://github.com/edusosa24/cv-aplication",
+      "image_url": "./images/cv-app.png"
+    },
+    {
+      "project_name": "memory card game",
+      "project_url": "https://edusosa24.github.io/memory-card-game/",
+      "github_url": "https://github.com/edusosa24/memory-card-game",
+      "image_url": "./images/memory-card-game.png"
+    },
+    {
+      "project_name": "shopping cart",
+      "project_url": "https://edusosa24.github.io/shopping-cart/",
+      "github_url": "https://github.com/edusosa24/shopping-cart",
+      "image_url": "./images/shopping-cart.png"
+    }
+  ],
+  "fullstack_nodb":[
+    {
+      "project_name": "mini message board",
+      "project_url": "https://quiet-wildwood-91700.herokuapp.com/",
+      "github_url": "https://github.com/edusosa24/mini-message-board",
+      "image_url": "./images/mini-message-board.png"
+    }
+  ],
+  "fullstack_db":[]
+}

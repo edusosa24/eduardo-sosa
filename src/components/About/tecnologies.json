@@ -1,0 +1,56 @@
+{
+  "learned": [
+    {
+      "name": "HTML5",
+      "image_url": "./images/html5.png"
+    },
+    {
+      "name": "CSS3",
+      "image_url": "./images/css3.png"
+    },
+    {
+      "name": "Javascript",
+      "image_url": "./images/javascript.png"
+    },
+    {
+      "name": "React",
+      "image_url": "./images/react.png"
+    },
+    {
+      "name": "Git",
+      "image_url": "./images/git.png"
+    },
+    {
+      "name": "Github",
+      "image_url": "./images/github.png"
+    }
+  ],
+  "learning": [
+    {
+      "name": "NodeJs",
+      "image_url": "./images/node.png"
+    },
+    {
+      "name": "MongoDB",
+      "image_url": "./images/mongodb.png"
+    },
+    {
+      "name": "ExpressJs",
+      "image_url": "./images/express.png"
+    }
+  ],
+  "next": [
+    {
+      "name": "Typescript",
+      "image_url": "./images/typescript.png"
+    },
+    {
+      "name": "Jest",
+      "image_url": "./images/jest.png"
+    },
+    {
+      "name": "Sass",
+      "image_url": "./images/sass.png"
+    }
+  ]
+}
