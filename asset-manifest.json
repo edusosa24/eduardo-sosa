@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/eduardo-sosa/static/css/main.0aeeeab8.css",
+    "main.css": "/eduardo-sosa/static/css/main.6d4405d0.css",
     "main.js": "/eduardo-sosa/static/js/main.f41806b7.js",
     "static/media/eduardo-sosa.png": "/eduardo-sosa/static/media/eduardo-sosa.bfb9150256605ebb4cf6.png",
     "static/media/pasta-factory.png": "/eduardo-sosa/static/media/pasta-factory.7d965fda8839d2fd7a94.png",
@@ -20,11 +20,11 @@
     "static/media/html5.png": "/eduardo-sosa/static/media/html5.69c3a72be6bfae9740b0.png",
     "static/media/mini-message-board.png": "/eduardo-sosa/static/media/mini-message-board.646abd283e577f044eab.png",
     "index.html": "/eduardo-sosa/index.html",
-    "main.0aeeeab8.css.map": "/eduardo-sosa/static/css/main.0aeeeab8.css.map",
+    "main.6d4405d0.css.map": "/eduardo-sosa/static/css/main.6d4405d0.css.map",
     "main.f41806b7.js.map": "/eduardo-sosa/static/js/main.f41806b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.0aeeeab8.css",
+    "static/css/main.6d4405d0.css",
     "static/js/main.f41806b7.js"
   ]
 }
