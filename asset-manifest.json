@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/eduardo-sosa/static/css/main.0aeeeab8.css",
+    "main.js": "/eduardo-sosa/static/js/main.f41806b7.js",
+    "static/media/eduardo-sosa.png": "/eduardo-sosa/static/media/eduardo-sosa.bfb9150256605ebb4cf6.png",
+    "static/media/pasta-factory.png": "/eduardo-sosa/static/media/pasta-factory.7d965fda8839d2fd7a94.png",
+    "static/media/memory-card-game.png": "/eduardo-sosa/static/media/memory-card-game.17a6ca1315577541de72.png",
+    "static/media/shopping-cart.png": "/eduardo-sosa/static/media/shopping-cart.ec15eeeb1a2c5fb62924.png",
+    "static/media/weather-app.png": "/eduardo-sosa/static/media/weather-app.0f3ad8f3a391e55abfde.png",
+    "static/media/building-with-responsive-design.png": "/eduardo-sosa/static/media/building-with-responsive-design.6a3a3c1fd613de7ef272.png",
+    "static/media/express.png": "/eduardo-sosa/static/media/express.ea43790c98ff35b6779f.png",
+    "static/media/mongodb.png": "/eduardo-sosa/static/media/mongodb.41e505b098e3087319b8.png",
+    "static/media/the-odin-project-clone.png": "/eduardo-sosa/static/media/the-odin-project-clone.2121238088f1be15c3f1.png",
+    "static/media/git.png": "/eduardo-sosa/static/media/git.c2f5c09e9ee42220a99c.png",
+    "static/media/simple-library.png": "/eduardo-sosa/static/media/simple-library.cacd6c04339341b78cf1.png",
+    "static/media/cv-app.png": "/eduardo-sosa/static/media/cv-app.3315032e83e24ed38db3.png",
+    "static/media/css3.png": "/eduardo-sosa/static/media/css3.486422b1ac26219d1783.png",
+    "static/media/tic-tac-toe.png": "/eduardo-sosa/static/media/tic-tac-toe.485a5531e49de8aad212.png",
+    "static/media/typescript.png": "/eduardo-sosa/static/media/typescript.1a203e65baa39b0b972d.png",
+    "static/media/html5.png": "/eduardo-sosa/static/media/html5.69c3a72be6bfae9740b0.png",
+    "static/media/mini-message-board.png": "/eduardo-sosa/static/media/mini-message-board.646abd283e577f044eab.png",
+    "index.html": "/eduardo-sosa/index.html",
+    "main.0aeeeab8.css.map": "/eduardo-sosa/static/css/main.0aeeeab8.css.map",
+    "main.f41806b7.js.map": "/eduardo-sosa/static/js/main.f41806b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aeeeab8.css",
+    "static/js/main.f41806b7.js"
+  ]
+}
