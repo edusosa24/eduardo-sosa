@@ -8,13 +8,12 @@ const Projects = () => {
     <section id="projects">
       <h1 className='projects-sect-title'>Mis proyectos</h1>
       <p className='intro'>
-        Muchos necesitan cambios, que ire haciendo con el tiempo.
-        <br /> Estos no son todos, pero son de los que estoy mas orgulloso.
+        Algunos de los proyectos que arme para aprender a usar distintas tecnologías y herramientas.
       </p>
 
-      <h2>Front end (Puramente estético - No js)</h2>
+      <h2>Front-end</h2>
       <div className='projects-separator'>
-        {projects.front_nojs.map((project) => {
+        {projects.frontend.map((project) => {
           return (
             <div className='project-container' key={uniqid()}>
               <div className='image-container'>
@@ -30,45 +29,9 @@ const Projects = () => {
         })}
       </div>
 
-      <h2>Front end (Utilizando js)</h2>
-      <div className='projects-separator'>
-        {projects.front_js.map((project) => {
-          return (
-            <div className='project-container' key={uniqid()}>
-              <div className='image-container'>
-                <a href={project.project_url} target="_blank" rel="noreferrer">
-                  <img className='project-image' src={require(`${project.image_url}`)} alt={project.project_name} />
-                </a>
-              </div>
-              <a href={project.github_url}>
-                <p className='code-link'>Code</p>
-              </a>
-            </div>
-          );
-        })}
-      </div>
-
-      <h2>Front end (Utilizando React)</h2>
-      <div className='projects-separator'>
-        {projects.front_react.map((project) => {
-          return (
-            <div className='project-container' key={uniqid()}>
-              <div className='image-container'>
-                <a href={project.project_url} target="_blank" rel="noreferrer">
-                  <img className='project-image' src={require(`${project.image_url}`)} alt={project.project_name} />
-                </a>
-              </div>
-              <a href={project.github_url}>
-                <p className='code-link'>Code</p>
-              </a>
-            </div>
-          );
-        })}
-      </div>
-
-      <h2>Fullstack (No db - Desarrollando actualmente)</h2>
+      <h2>Back-end</h2>
       <div className='projects-separator last-block'>
-        {projects.fullstack_nodb.map((project) => {
+        {projects.backend.map((project) => {
           return (
             <div className='project-container' key={uniqid()}>
               <div className='image-container'>

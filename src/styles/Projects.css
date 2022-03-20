@@ -129,13 +129,13 @@
 
 .project-image{
   width: 14rem;
-  height: 9rem;
+  height: 8rem;
   transition: .8s;
 }
 
 .project-image:hover{
   width: 16rem;
-  height: 10rem;
+  height: 9rem;
   transition: .8s;
 }
 

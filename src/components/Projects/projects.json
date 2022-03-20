@@ -1,5 +1,5 @@
 {
-  "front_nojs": [
+  "frontend": [
     {
       "project_name": "The next web clone",
       "project_url": "https://edusosa24.github.io/building-with-responsive-design/",
@@ -11,9 +11,7 @@
       "project_url": "https://edusosa24.github.io/the-odin-project-clone/",
       "github_url": "https://github.com/edusosa24/the-odin-project-clone",
       "image_url": "./images/the-odin-project-clone.png"
-    }
-  ],
-  "front_js": [
+    },
     {
       "project_name": "simple library",
       "project_url": "https://edusosa24.github.io/library/",
@@ -37,9 +35,7 @@
       "project_url": "https://edusosa24.github.io/weather-app/",
       "github_url": "https://github.com/edusosa24/weather-app",
       "image_url": "./images/weather-app.png"
-    }
-  ],
-  "front_react":[
+    },
     {
       "project_name": "curriculum builder app",
       "project_url": "https://edusosa24.github.io/cv-aplication/",
@@ -59,13 +55,19 @@
       "image_url": "./images/shopping-cart.png"
     }
   ],
-  "fullstack_nodb":[
+  "backend": [
     {
       "project_name": "mini message board",
       "project_url": "https://quiet-wildwood-91700.herokuapp.com/",
       "github_url": "https://github.com/edusosa24/mini-message-board",
       "image_url": "./images/mini-message-board.png"
+    },
+    {
+      "project_name": "inventory application",
+      "project_url": "https://guarded-brook-05745.herokuapp.com/",
+      "github_url": "https://github.com/edusosa24/inventory-application",
+      "image_url": "./images/inventory-app.png"
     }
   ],
-  "fullstack_db":[]
+  "fullstack": []
 }
